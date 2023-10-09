@@ -1,0 +1,15 @@
+.mainSection {
+  display: flex;
+}
+.mainP {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  font-size: 34px;
+  font-weight: bold;
+}
+.mainSpan {
+  color: #2ec4b6;
+}
