@@ -87,7 +87,7 @@ function App() {
         <Route path="/Deals" element={<Deal />} />
         <Route path="/Owner" element={<Owner />} />]
       </Routes>
-      {/* <FooterMain /> */}
+      <FooterMain />
     </Router>
   );
 }
