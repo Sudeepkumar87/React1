@@ -1,0 +1,50 @@
+.mainP {
+  font-size: 40px;
+  color: #212121;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.mainSpan {
+  color: #2ec4b6;
+}
+.innerP {
+  font-size: 45px;
+  color: #212121;
+  font-weight: bold;
+  text-align: center;
+}
+.outerMap {
+  display: flex;
+  gap: 1rem;
+  text-align: center;
+  align-items: center;
+}
+.mapOuter {
+  display: flex;
+}
+.mapImage {
+  height: 230px;
+  width: 262px;
+}
+.smarDiv {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.Tablemain tr th {
+  background: #2ec4b6;
+  padding: 0px;
+  text-align: center;
+}
+/* .bodyMain p :nth-child(even) {
+  background: red;
+} */
+.accordion {
+  border: none;
+  box-shadow: none !important;
+}
+.accordion-button:not(.collapsed) {
+  background-color: transparent;
+  color: #000 !important; /* Set the desired text color for active accordion items */
+}

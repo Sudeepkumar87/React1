@@ -1,0 +1,91 @@
+.mainBreak {
+  font-size: 28px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+.spanBreak {
+  color: #ff9f1c;
+  font-weight: bold;
+}
+.mainPayment {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.mainMap {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+}
+.mainText {
+  font-size: 18px;
+  font-weight: bold;
+}
+.callMain {
+  display: flex;
+  gap: 3rem;
+  padding-bottom: 1rem;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+}
+.mainCall {
+  width: 207px;
+  height: 63px;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  border: none;
+}
+.mainToday {
+  font-size: 20px;
+  color: #2ec4b6;
+}
+.mainOpen {
+  font-size: 28px;
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+}
+.mainFrid {
+  text-align: center;
+}
+.mainClose {
+  text-align: center;
+}
+.mainCal {
+  font-size: 14px;
+  max-width: 430px;
+  margin: auto;
+  text-align: center;
+}
+.imgPeter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+.peterImg {
+  width: 181px;
+  height: 122px;
+}
+.kmMain {
+  font-size: 43px;
+  font-weight: bold;
+  align-items: center;
+  text-align: center;
+}
+.petImg {
+  width: 110px;
+  height: 53px;
+}
+.outerClose {
+  background: #ff9f1c29 0% 0% no-repeat padding-box;
+  border: 1px solid #ff9f1c;
+  border-radius: 55px;
+  color: #ff9f1c;
+  width: 123px;
+  height: 42px;
+}
+.internalMain {
+  display: flex;
+  justify-content: end;
+}

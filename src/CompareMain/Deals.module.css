@@ -1,0 +1,69 @@
+.mainButton {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.innerButton {
+  width: 200px;
+  height: 50px;
+  background: #21212119 0% 0% no-repeat padding-box;
+  border: none;
+  border-radius: 10px;
+}
+.mainDeals {
+  background: #f5faff;
+  padding: 50px;
+}
+.mainText {
+  font-size: 34px;
+  font-weight: bold;
+}
+.HeadMain {
+  background: #ffffff;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin: 3rem;
+  padding-bottom: 2rem;
+}
+.outerDiv {
+  display: flex;
+  gap: 1rem;
+}
+.maiPassa {
+  font-size: 23px;
+  max-width: 937px;
+  margin: auto;
+  padding-bottom: 2rem;
+}
+.mainSpan {
+  color: #2ec4b6;
+}
+.mainText1 {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.innerPass {
+  font-size: 34px;
+  font-weight: bold;
+}
+@media (max-width: 425px) {
+  .HeadMain {
+    margin: 0rem;
+  }
+}
+@media (max-width: 320px) {
+  .mainText {
+    font-size: 23px;
+    padding-bottom: 2rem;
+  }
+  .maiPassa {
+    font-size: 13px;
+  }
+  .HeadMain {
+    margin: -2rem;
+  }
+}

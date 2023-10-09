@@ -1,0 +1,127 @@
+.mainHead {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.mainimg {
+  width: 80px;
+  height: 80px;
+}
+.inputMain input::placeholder {
+  text-align: start;
+  padding: 1rem;
+}
+.imgmain {
+  text-align: center;
+}
+.innnerImg {
+  width: 30px;
+  height: 20px;
+}
+.mainPara {
+  font-size: 34px;
+  color: #212121;
+  font-weight: bold;
+  max-width: 748px;
+  margin: auto;
+  padding-bottom: 2rem;
+}
+.spanMain {
+  color: #ff9f1c;
+  font-weight: bold;
+}
+.mainBill {
+  font-size: 18px;
+  position: relative;
+  font-weight: bold;
+  padding-bottom: 1rem;
+  text-align: start;
+}
+.mainBrand {
+  font-size: 24px;
+  text-align: center;
+  padding-top: 2rem;
+  font-weight: bold;
+  padding-bottom: 3rem;
+}
+.carModal {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+.mainSelect {
+  width: 281px;
+  height: 58px;
+  padding-bottom: 2rem;
+}
+.AudiImage {
+  width: 230px;
+  height: 230px;
+}
+.mainRough {
+  font-size: 18px;
+  color: #212121;
+  display: flex;
+  font-weight: bold;
+  text-align: center;
+  justify-content: center;
+  margin-top: 3rem;
+}
+.mainButton {
+  font-size: 18px;
+  color: #212121;
+  width: 284px;
+  height: 59px;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  border: none;
+}
+.mainMiles {
+  display: flex;
+  justify-content: space-between;
+}
+.mainInput {
+  width: 281px;
+  height: 58px;
+}
+.inputMain {
+  display: flex;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 768px) {
+  .mainHead {
+    display: block;
+  }
+}
+@media (max-width: 425px) {
+  .imgmain {
+    display: none;
+    width: 54px;
+    height: 80px;
+  }
+  .carModal {
+    display: block;
+  }
+  .mainAudi {
+    display: flex;
+    margin-top: 2rem;
+  }
+  .mainMiles {
+    display: block;
+  }
+  .form-select {
+    width: 71%;
+  }
+  .innerbutton {
+    margin: auto;
+    text-align: center;
+  }
+}
+@media (max-width: 320px) {
+  .mainPara {
+    font-size: 20px;
+  }
+}

@@ -1,0 +1,61 @@
+.mainHeading {
+  font-size: 40px;
+  color: #212121;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 0.8px;
+  padding-bottom: 2rem;
+}
+.mainSpan {
+  color: #2ec4b6;
+  font-weight: bold;
+  letter-spacing: 0.8px;
+}
+.mainBox {
+  font-size: 24px;
+  color: #212121;
+  font-weight: bold;
+}
+.grantsMap {
+  display: flex;
+  gap: 1rem;
+  /* flex-direction: row; */
+  /* text-align: center;
+  align-items: center; */
+}
+.mainImage {
+  width: 16px;
+  height: 11px;
+  color: #2ec4b6;
+}
+.mainText {
+  font-size: 18px;
+}
+.grantsMain {
+  padding-bottom: 1.5rem;
+  max-width: 871px;
+}
+.shorterGrants {
+  max-width: 974px;
+}
+.GovernMain {
+  margin-left: 12rem;
+  margin-right: 12rem;
+}
+.innerBox {
+  padding-bottom: 3rem;
+}
+@media (max-width: 768px) {
+  .mainBox {
+    font-size: 20px;
+  }
+  .GovernMain {
+    margin-left: 0rem;
+    margin-right: 0rem;
+  }
+}
+@media (max-width: 320px) {
+  .mainHeading {
+    font-size: 28px;
+  }
+}

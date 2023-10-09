@@ -1,0 +1,54 @@
+.mainHeader {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+  color: #212121;
+}
+.mainPara {
+  display: flex;
+  max-width: 1023px;
+  /* margin: auto; */
+
+  /* margin: auto; */
+}
+.innerMain {
+  font-size: 24px;
+  color: #212121;
+  font-weight: bold;
+  padding-bottom: 2rem;
+  margin: auto;
+  justify-content: center;
+}
+.mainMap {
+  display: flex;
+  gap: 1rem;
+  text-align: start;
+  align-items: center;
+}
+.MapPara {
+  font-size: 18px;
+}
+.devMain {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+.mainSection {
+  margin: 6rem;
+}
+.mainSpan {
+  color: #2ec4b6;
+}
+@media (max-width: 425px) {
+  .mainHeader {
+    font-size: 15px;
+  }
+  .innerMain {
+    font-size: 17px;
+
+    padding-bottom: 1rem;
+  }
+  .MapPara {
+    font-size: 16px;
+  }
+}

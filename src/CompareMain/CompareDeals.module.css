@@ -1,0 +1,519 @@
+.mainImg {
+  width: 1440px;
+  height: 180px;
+}
+.mainDesktop {
+  position: relative;
+}
+.innerDesktop {
+  position: absolute;
+  bottom: 30px;
+  text-align: center;
+  left: 3rem;
+}
+.mainPara {
+  font-size: 54px;
+  color: #212121;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+}
+.headerImg {
+  width: 786px;
+  height: 590px;
+}
+.outerPara {
+  font-size: 24px;
+  color: #212121;
+  letter-spacing: 0.48px;
+  opacity: 0.9;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.mainEvzap {
+  display: flex;
+}
+.mainMap {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.mapImgage {
+  width: 99px;
+  height: 99px;
+}
+.outerMap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.mapfixed {
+}
+.innerHead {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.outertext {
+  font-size: 26px;
+  color: #212121;
+  font-weight: bold;
+  max-width: 222px;
+}
+.innertext {
+  font-size: 14px;
+  max-width: 228px;
+}
+.innerbutton {
+  font-size: 18px;
+  color: #212121;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+  border: none;
+  margin: 2rem;
+  width: 234px;
+  height: 55px;
+}
+.innerText {
+  font-size: 30px;
+  color: #f4178f;
+  font-weight: bold;
+  padding-top: 1rem;
+}
+.smallerText {
+  opacity: 0.9;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.mainTick {
+  display: flex;
+  background: #2ec4b6;
+  padding: 30px;
+  gap: 10rem;
+  text-align: center;
+  align-items: center;
+}
+.innerTick {
+  text-align: center;
+}
+.innerimage {
+  width: 34px;
+  height: 25px;
+}
+.innerPara {
+  color: #ffffff;
+}
+.mainVehicle {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 3.8rem;
+}
+.vehiText {
+  font-size: 20px;
+  color: #212121;
+  font-weight: bold;
+  max-width: 140px;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+}
+.buttonText {
+  background: #2ec4b6 0% 0% no-repeat padding-box;
+  border-radius: 24px;
+  opacity: 1;
+  border: none;
+  padding: 10px 2rem 10px 2rem;
+}
+.buttonone {
+  border: 1.2px solid var(--unnamed-color-2ec4b6);
+  border: 1px solid #2ec4b6;
+  border-radius: 24px;
+  padding: 10px 2rem 10px 2rem;
+}
+.innerVehicle {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 25px;
+}
+.Textvehi {
+  font-size: 21px;
+  color: #212121;
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+}
+.buttonVehicle {
+  background: var(--unnamed-color-2ec4b6) 0% 0% no-repeat padding-box;
+  background: #2ec4b6 0% 0% no-repeat padding-box;
+  border-radius: 24px;
+  opacity: 1;
+  border: none;
+  padding: 10px 2rem 10px 2rem;
+}
+.Vehiclebutton {
+  width: 20px;
+  height: 20px;
+}
+.mainbutton {
+  border: 1.2px solid var(--unnamed-color-2ec4b6);
+  border: 1px solid #2ec4b6;
+  border-radius: 24px;
+  padding: 10px 2rem 10px 2rem;
+}
+.headerMain {
+  background: #f5faff;
+  padding: 50px;
+}
+.maincar {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.innerCar {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 45px;
+  width: 410px;
+  height: 598px;
+}
+.UKimage {
+  width: 786px;
+  height: 590px;
+  position: relative;
+}
+.mainSmart {
+  display: flex;
+}
+.headText {
+  text-align: center;
+}
+.paraText {
+  padding-bottom: 1rem;
+}
+.innerText {
+  font-size: 30px;
+  color: #f4178f;
+  font-weight: bold;
+}
+.houseImg {
+  width: 99px;
+  height: 99px;
+  position: absolute;
+  right: 38rem;
+}
+.mainTerm {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 30px;
+}
+.amountbutton {
+  width: 234px;
+  height: 55px;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  border: none;
+}
+.mapAmount {
+  display: flex;
+  margin: 2rem;
+}
+.itemText {
+  font-size: 22px;
+  font-weight: bold;
+  /* max-width: 298px; */
+}
+.itempara {
+  font-size: 14px;
+  max-width: 266px;
+}
+.gridImage {
+  width: 330px;
+  height: 232px;
+}
+.mainPara {
+  font-size: 24px;
+
+  font-weight: bold;
+  text-align: center;
+}
+.mainPar {
+  font-size: 20px;
+  text-align: center;
+}
+.mainPa {
+  opacity: 0.45;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.extraMain {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  gap: 34px;
+}
+.innermoney {
+  font-size: 24px;
+  color: #2ec4b6;
+  font-weight: bold;
+}
+.outermoney {
+  font-size: 14px;
+  text-align: center;
+  opacity: 0.55;
+  padding-bottom: 1.8rem;
+}
+.moneybutton {
+  width: 345px;
+  height: 59px;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  opacity: 1;
+  border: none;
+}
+.GroupImg {
+  font-size: 28px;
+  text-align: center;
+  padding-top: 4rem;
+  padding-bottom: 5rem;
+  font-weight: bold;
+}
+.Grouppara {
+  width: 1210px;
+  height: 319px;
+  display: flex;
+  text-align: center;
+  margin: auto;
+}
+.innerLine {
+  padding-top: 1rem;
+}
+.mainSelect {
+  width: 180px;
+  height: 50px;
+}
+.mainPrice {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  text-align: center;
+}
+.innerPrice {
+  display: flex;
+  text-align: center;
+  margin: auto;
+  align-items: center;
+  gap: 135px;
+}
+.imagePrice {
+  width: 220px;
+  height: 24px;
+}
+.priceOuter {
+  font-size: 18px;
+  color: #2ec4b6;
+}
+.outerPrice {
+  background: #212121;
+  padding: 38px;
+}
+.Rangemain {
+  font-size: 18px;
+  color: #ffffff;
+  text-align: start;
+}
+@media (max-width: 1024px) {
+  .mainImg {
+    width: 1027px;
+  }
+  .mainTerm {
+    display: block;
+  }
+  .mainPrice {
+    gap: 3px;
+  }
+  .Grouppara {
+    width: 1014px;
+  }
+  .innerPrice {
+    gap: 98px;
+  }
+  .mainVehicle {
+    gap: 0.8rem;
+  }
+  .UKimage {
+    width: 695px;
+
+    height: 823px;
+  }
+  .houseImg {
+    right: 18rem;
+  }
+  .mainTick {
+    gap: 7rem;
+  }
+  .maincar {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media (max-width: 768px) {
+  .mainImg {
+    width: 772px;
+  }
+  .Textvehi {
+    font-size: 18px;
+  }
+  .Grouppara {
+    width: 761px;
+  }
+  .mainPrice {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    gap: 1rem;
+  }
+  .houseImg {
+    right: -4rem;
+  }
+  .buttonText {
+    margin: 1rem;
+  }
+  .mainVehicle {
+    display: block;
+  }
+  .mainTick {
+    gap: 4rem;
+    padding: 10px;
+  }
+  .gridImage {
+    width: 294px;
+    height: 180px;
+  }
+  .houseImg {
+    position: fixed;
+    display: none;
+  }
+  .extraMain {
+    display: block;
+    gap: 15px;
+  }
+  .moneybutton {
+    width: 294px;
+  }
+  .innerCar {
+    margin: 10px;
+    padding: 8px;
+    width: 344px;
+    height: 560px;
+  }
+  .mapAmount {
+    justify-content: center;
+  }
+  .mainSmart {
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (max-width: 425px) {
+  .mainImg {
+    width: 424px;
+  }
+  .Grouppara {
+    width: 420px;
+  }
+  .mainPrice {
+    grid-template-columns: 1fr;
+  }
+  .Textvehi {
+    padding-bottom: 1rem;
+  }
+  .innerVehicle {
+    display: block;
+    margin: 2rem;
+  }
+  .Vehiclebutton {
+    margin: 1rem;
+  }
+  .mainTick {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0rem;
+  }
+  .maincar {
+    display: block;
+  }
+  .innerCar {
+    width: 315px;
+  }
+  .UKimage {
+    width: 459px;
+
+    height: 566px;
+  }
+}
+@media (max-width: 375px) {
+  .mainImg {
+    width: 381px;
+  }
+  .Grouppara {
+    width: 370px;
+    height: 246px;
+  }
+  .UKimage {
+    width: 390px;
+
+    height: 433px;
+  }
+  .gridImage {
+    width: 278px;
+  }
+  .buttonone {
+    margin: 1rem;
+  }
+  .moneybutton {
+    width: 245px;
+  }
+  .gridImage {
+    width: 255px;
+    height: 134px;
+  }
+  .innerCar {
+    width: 264px;
+  }
+}
+@media (max-width: 320px) {
+  .UKimage {
+    width: 319px;
+    height: 388px;
+  }
+  .mainImg {
+    width: 322px;
+  }
+  .moneybutton {
+    width: 225px;
+  }
+  .innerCar {
+    width: 210px;
+  }
+  .Grouppara {
+    width: 315px;
+    height: 246px;
+  }
+  .gridImage {
+    width: 204px;
+  }
+  .moneybutton {
+    width: 181px;
+  }
+}

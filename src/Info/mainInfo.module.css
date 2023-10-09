@@ -1,0 +1,15 @@
+.back-Main {
+  background: #f5faff;
+  padding: 40px;
+}
+@media (max-width: 425px) {
+  .back-Main {
+    background: #f5faff;
+    padding: 10px;
+  }
+}
+@media (max-width: 1024px) {
+  .back-Main {
+    /* padding: 10px; */
+  }
+}

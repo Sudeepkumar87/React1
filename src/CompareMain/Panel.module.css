@@ -1,0 +1,178 @@
+.mainNum {
+  display: flex;
+  justify-content: center;
+  gap: 1.7rem;
+  padding-top: 3rem;
+}
+.NumbColor {
+  color: #2ec4b6;
+}
+/* .mainCont {
+  background: #f2f9ff 0% 0% no-repeat padding-box;
+  padding-bottom: 12rem;
+} */
+.imgmain {
+  text-align: center;
+  padding-bottom: 5rem;
+}
+.mainimg {
+  width: 80px;
+  height: 80px;
+}
+.mainPattern {
+  background: #ffffff;
+  text-align: center;
+  width: 900px;
+  height: 178px;
+  margin: auto;
+  padding: 10px;
+  padding-top: 2rem;
+}
+
+.innerPatter {
+  display: flex;
+  gap: 1.5rem;
+  text-align: center;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+.mainButt {
+  width: 166px;
+  height: 41px;
+  background: #21212119 0% 0% no-repeat padding-box;
+  border: none;
+}
+.innerBut {
+  display: flex;
+  gap: 2rem;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}
+.uppersect {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1rem;
+}
+.imgHorizon {
+  width: 310px;
+  height: 80px;
+  padding-bottom: 10px;
+}
+.imgorizon {
+  width: 310px;
+  height: 158px;
+  display: flex;
+
+  padding-bottom: 3rem;
+}
+.mainReject {
+  width: 351px;
+  height: 577px;
+  background: #f2f9ff;
+  padding-left: 10px;
+
+  border-radius: 15px;
+}
+.mainR1 {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+.mainR2 {
+  font-size: 18px;
+  color: #f4178f;
+  text-align: center;
+}
+.mainR3 {
+  font-size: 18px;
+  font-weight: bold;
+  padding-top: 2rem;
+}
+.buttonouter {
+  width: 510px;
+  height: 122px;
+  background: #212121;
+  border-radius: 13px;
+  color: #ffffff;
+  max-width: 406px;
+
+  /* text-align: sta; */
+}
+.blankMain {
+  padding-top: 1rem;
+}
+.blankImg {
+  width: 510px;
+  height: 430px;
+}
+.buttonout {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.mainTen {
+  background: #f2f9ff;
+  width: 450px;
+  height: 141px;
+}
+.mainAdd {
+  font-size: 14px;
+  max-width: 382px;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+  text-align: center;
+}
+.mainNumb {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 2rem;
+  margin: auto;
+  justify-content: center;
+  padding-top: 1rem;
+}
+.mainImgTen {
+  width: 62px;
+  height: 62px;
+}
+.mainparaTen {
+  font-size: 28px;
+  font: normal normal medium 28px/22px Gotham;
+  letter-spacing: 0.56px;
+  color: #212121;
+}
+.imgOne {
+  display: flex;
+  padding-top: 1rem;
+  gap: 10px;
+  padding-bottom: 1rem;
+}
+.imgone {
+  width: 228px;
+  height: 196px;
+}
+.imgtwo {
+  width: 450px;
+  height: 62px;
+}
+.mainCheck {
+  color: #ff9f1c;
+  font: italic normal normal 16px/25px Poppins;
+  letter-spacing: 0.32px;
+  padding-top: 2.5rem;
+  text-align: center;
+}
+.secondbtn {
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  width: 284px;
+  height: 59px;
+  border: none;
+}
+.secondmain {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}

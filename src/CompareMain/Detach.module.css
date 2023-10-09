@@ -1,0 +1,117 @@
+.compMain {
+  font-size: 34px;
+  text-align: center;
+  font-weight: bold;
+  max-width: 972px;
+  margin: auto;
+  padding-bottom: 2rem;
+}
+.mainSpan {
+  color: #ff9f1c;
+  font-weight: bold;
+}
+.mainNum {
+  display: flex;
+  justify-content: center;
+  gap: 1.7rem;
+}
+.NumbColor {
+  color: #2ec4b6;
+}
+.imgmain {
+  text-align: center;
+  padding-bottom: 7rem;
+}
+.mainimg {
+  width: 80px;
+  height: 80px;
+}
+.mainBrand {
+  font-size: 24px;
+  text-align: center;
+  padding-top: 2rem;
+  font-weight: bold;
+  padding-bottom: 3rem;
+}
+.carModal {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+.mainBill {
+  font-size: 18px;
+  position: relative;
+  font-weight: bold;
+  padding-bottom: 1rem;
+}
+.mainSelect {
+  width: 281px;
+  height: 58px;
+  padding-bottom: 2rem;
+}
+.outerPara {
+  background: #f2f9ff;
+  border-radius: 13px;
+  padding: 30px;
+  align-items: center;
+  justify-content: center;
+  max-width: 349px;
+  height: 134px;
+}
+.MainLabel {
+  padding-bottom: 2rem;
+}
+.mainButton {
+  font-size: 18px;
+  color: #212121;
+  width: 284px;
+  height: 59px;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  border: none;
+}
+.innerButt {
+  display: block;
+  justify-content: end;
+  text-align: end;
+  align-items: end;
+}
+.mainetach {
+  display: flex;
+  gap: 2rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  text-align: center;
+  /* align-items: center;
+  margin: auto; */
+}
+.mainProp {
+  padding-bottom: 5rem;
+}
+.mainPassag {
+  font-size: 20px;
+
+  margin: auto;
+  font-weight: bold;
+  padding-bottom: 2rem;
+  margin-left: 22rem;
+}
+.innerDetac {
+  width: 170px;
+  height: 193px;
+  border-radius: 15px;
+  background: #cbf3f0;
+  padding-top: 1rem;
+}
+.imgDetac {
+  width: 100px;
+  height: 100px;
+  padding-bottom: 1rem;
+}
+.inneDetac {
+  width: 170px;
+  height: 193px;
+  border-radius: 15px;
+  border: 0.699999988079071px solid #707070;
+  padding-top: 1rem;
+}

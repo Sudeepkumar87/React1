@@ -1,0 +1,210 @@
+.headerDisplay {
+  display: flex;
+  gap: 2rem;
+}
+.marginp {
+  margin: 7rem;
+}
+.mobile-image {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 50px;
+  margin: 2rem;
+}
+.Appmain {
+  text-align: center;
+  font-size: 24px;
+  color: #ff9f1c;
+}
+.btnColor {
+  background-color: #ff9f1c;
+  border-radius: 10px;
+  text-decoration: none;
+  border: none;
+  width: 310px;
+  margin: auto;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
+.mainApp {
+  background-color: #ffffff;
+  border: 1px solid #ffff;
+  border-radius: 15px;
+  height: 37rem;
+}
+.mainSection {
+  margin: 4rem;
+}
+.mainHrtag {
+  width: 90%;
+  /* height: 2rem; */
+  margin-left: 5%;
+}
+.mainText {
+  background-color: #ffff;
+}
+.mainPayment li {
+  content: ".";
+  color: #ff9f1c;
+}
+.mainPayment {
+  padding: 3rem;
+  display: flex;
+  align-items: start;
+  flex-direction: column;
+}
+.Appmain {
+  padding-bottom: 1rem;
+}
+.mainText {
+  padding-bottom: 1rem;
+  text-align: center;
+  margin: auto;
+}
+.mapimage {
+  width: 198px;
+  height: 99px;
+  margin: auto;
+}
+.mainmap {
+  background: #cbf3f0;
+  border-radius: 15px;
+  padding-bottom: 1rem;
+  max-width: 330px;
+  /* margin: auto; */
+  margin-bottom: 2rem;
+}
+.innermap {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+.mainpara {
+  max-width: 262px;
+  margin: auto;
+}
+.innerplus {
+  background: #ffffff;
+  border-radius: 15px;
+  margin-top: 1rem;
+  padding: 1rem;
+  width: 330px;
+  height: 310px;
+}
+.mainplus {
+}
+.mainTextp {
+  opacity: 70%;
+  color: #ffffff;
+}
+.mainTextpone {
+  font-size: 24px;
+  color: #ffffff;
+}
+.mobile1 {
+  width: 121px;
+  height: 252px;
+}
+.topMain {
+  display: flex;
+}
+.mainCharging {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+  justify-content: center;
+}
+.starP {
+  text-align: start;
+  justify-content: flex-start;
+  align-items: self-start;
+}
+.mainTeXt {
+  max-width: 194px;
+  text-align: start;
+}
+.DatOuter {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 10px;
+}
+.imgMap {
+  width: 14px;
+  height: 14px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.passagMap {
+  max-width: 213px;
+  text-align: start;
+  align-items: center;
+  justify-content: center;
+}
+.ExtraHeader {
+  background: #ffffff;
+  width: 300px;
+  height: 580px;
+  border-radius: 15px;
+}
+.mapMob {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+.mobmapImg {
+  width: 121px;
+  height: 252px;
+}
+.mainMob {
+  width: 289px;
+  height: 535px;
+}
+.innerHeadExt {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  margin: 6rem;
+  padding: 20px;
+}
+.sectionMain {
+}
+@media (max-width: 768px) {
+  .mapimage {
+    width: 108px;
+    height: 210px;
+  }
+  .mainmap {
+    max-width: 271px;
+  }
+  .btnColor {
+    width: 246px;
+  }
+  .innerHeadExt {
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+  }
+}
+@media (max-width: 425px) {
+  .mainmap {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+  }
+  .innerHeadExt {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 425px) {
+  .ExtraHeader {
+    margin: auto;
+  }
+  .innerplus {
+    width: 288px;
+  }
+}

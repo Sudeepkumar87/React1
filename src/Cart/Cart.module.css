@@ -1,0 +1,290 @@
+.outerCart {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 2rem;
+}
+.innerCart {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 6rem;
+}
+.mainDelete {
+  width: 143px;
+  height: 48px;
+  border: 1px solid #ff9f1c;
+  color: #ff9f1c;
+  border-radius: 25px;
+}
+/* .leftCart {
+} */
+.colorHead tr th {
+  background: #2ec4b6 !important;
+  /* border-radius: 0px 12px 0px 0px; */
+  padding: 0px;
+}
+.table th {
+  font-size: 14px;
+  max-width: 44px;
+  margin: auto;
+  /* text-align: center;
+  align-items: center;
+  justify-content: center; */
+}
+.vanaImg {
+  width: 90px;
+  height: 50px;
+}
+.maiDiv {
+  display: flex;
+  gap: 10px;
+}
+.imgstar {
+  width: 17px;
+  height: 17px;
+}
+.mainText {
+  font-size: 16px;
+}
+.tickImg {
+  width: 29px;
+  height: 20px;
+}
+.excleImg {
+  width: 20px;
+  height: 20px;
+}
+.mainRow {
+  display: flex;
+  gap: 30px;
+}
+.mainPhone {
+  width: 80px;
+  height: 80px;
+}
+.mainPass {
+  font-size: 16px;
+}
+.mainIndr {
+  display: flex;
+  gap: 10px;
+}
+.reduceCellHeight {
+  height: 3px;
+}
+.reduceCellHeigh {
+  display: flex;
+  align-items: end;
+  justify-content: end;
+  gap: 1rem;
+}
+.outerInfo {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.ProductP {
+  font-size: 14px;
+  font-weight: bold;
+}
+.imgPdf {
+  width: 35px;
+  height: 42px;
+}
+.downPdf {
+  width: 41px;
+  height: 41px;
+}
+.innerInfo {
+  display: flex;
+  justify-content: space-between;
+  width: 270px;
+  height: 62px;
+  align-items: center;
+  border-radius: 8px;
+  background: #ebecf0;
+}
+.largeInfo {
+}
+.chargMain {
+  display: flex;
+  gap: 30px;
+}
+.innerMain {
+  padding: 10px;
+}
+.solarPassag {
+  font-size: 14px;
+}
+.innerPassag {
+  font-size: 13px;
+  max-width: 170px;
+  margin: auto;
+}
+.Outerspan {
+  color: #2ec4b6;
+}
+.underCart {
+  display: flex;
+  gap: 4rem;
+  padding: 1.5rem;
+}
+.innercar {
+  padding-bottom: 1rem;
+  width: 136px;
+  height: 95px;
+}
+.mainCar {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 2rem;
+  /* background: #ffffff;
+  border-radius: 12px;
+  opacity: 1; */
+}
+.upouter {
+  opacity: 0.74;
+}
+.innerMani {
+  border-radius: 12px;
+  opacity: 1;
+  background: #ffffff;
+  width: 215px;
+  height: 453px;
+}
+.innerMan {
+  border-radius: 12px;
+  opacity: 1;
+  background: #ffffff;
+  width: 215px;
+  height: 511px;
+}
+.Evmain {
+  font-size: 18px;
+  color: #ff9f1c;
+  max-width: 85px;
+  margin: auto;
+}
+.innerTabel {
+  /* width: 1162px;
+  height: 367px; */
+}
+.innerhr {
+  width: 10rem;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+}
+.dealMain {
+  text-align: center;
+}
+.trMain {
+  text-align: center;
+}
+.mapChart {
+  display: flex;
+  gap: 5px;
+  text-align: start;
+}
+.mainclock {
+  display: flex;
+}
+.clickHand {
+  display: flex;
+  margin: 1rem;
+  gap: 10px;
+}
+.innerMap {
+  display: flex;
+}
+.mainVat {
+  display: flex;
+}
+.NakImg {
+  width: 76px;
+  height: 50px;
+  /* padding-top: 2rem; */
+  /* padding-bottom: 2rem; */
+}
+.TruImg {
+  width: 116px;
+  height: 36px;
+}
+.SuppoImg {
+  width: 28px;
+  height: 28px;
+}
+.NakMain {
+  text-align: center;
+  /* padding-bottom: 2rem; */
+}
+.trustMain {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+.PanelImg {
+  width: 12px;
+  height: 12px;
+}
+.mainPus {
+  width: 215px;
+  height: 535px;
+}
+.cartpara {
+  font-size: 24px;
+  font-weight: bold;
+
+  /* margin: auto; */
+}
+.cartparaok {
+  font-size: 20px;
+}
+.cartbuttook {
+  width: 202px;
+  height: 59px;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  border: none;
+  align-items: center;
+  text-align: center;
+}
+.mainExcla {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+.mainexcle {
+  width: 20px;
+  height: 20px;
+}
+.chartInner {
+  width: 119px;
+  height: 130px;
+}
+.chargHold {
+  width: 15px;
+  height: 15px;
+}
+.mapText {
+  font-size: 12px;
+  max-width: 49px;
+}
+.circleMain {
+  width: 122px;
+  height: 166px;
+}
+.clockMain {
+  width: 14px;
+  height: 14px;
+}
+.charOut {
+  width: 24px;
+  height: 24px;
+}
+.charOutText {
+  font-size: 18px;
+}

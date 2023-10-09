@@ -1,0 +1,51 @@
+.mainNum {
+  display: flex;
+  justify-content: center;
+  gap: 1.7rem;
+  padding-top: 3rem;
+}
+.NumbColor {
+  color: #2ec4b6;
+}
+.mainCont {
+  background: #f2f9ff 0% 0% no-repeat padding-box;
+  padding-bottom: 12rem;
+}
+.imgmain {
+  text-align: center;
+  padding-bottom: 5rem;
+}
+.mainimg {
+  width: 80px;
+  height: 80px;
+}
+.mainPattern {
+  background: #ffffff;
+  text-align: center;
+  width: 900px;
+  height: 178px;
+  margin: auto;
+  padding: 10px;
+  padding-top: 2rem;
+}
+
+.innerPatter {
+  display: flex;
+  gap: 1.5rem;
+  text-align: center;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+.mainButt {
+  width: 166px;
+  height: 41px;
+  background: #21212119 0% 0% no-repeat padding-box;
+  border: none;
+}
+.innerBut {
+  display: flex;
+  gap: 2rem;
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+}

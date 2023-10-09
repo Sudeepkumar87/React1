@@ -1,0 +1,57 @@
+.mainIntro {
+  display: flex;
+  gap: 3rem;
+  justify-content: center;
+}
+.mainMpara {
+  font-size: 18px;
+  max-width: 629px;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+.mainSpan {
+  color: #2ec4b6;
+}
+.missionImag {
+  width: 490px;
+  height: 565px;
+}
+.missionText {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+@media (max-width: 1024px) {
+  .mainMpara {
+    font-size: 16px;
+    margin: 10px;
+  }
+  .mainIntro {
+    gap: 1rem;
+  }
+  .missionImag {
+    height: 611px;
+  }
+}
+
+@media (max-width: 768px) {
+  .missionImag {
+    width: 714px;
+  }
+  .mainIntro {
+    display: block;
+  }
+}
+@media (max-width: 425px) {
+  .missionImag {
+    width: 382px;
+    height: 368px;
+  }
+}
+@media (max-width: 320px) {
+  .missionImag {
+    width: 278px;
+    height: 272px;
+  }
+}

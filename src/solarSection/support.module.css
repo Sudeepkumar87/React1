@@ -1,0 +1,74 @@
+.btncolor {
+  border-radius: 15px;
+  opacity: 1;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 3rem 4rem 3rem 4rem;
+  color: #f5faff;
+  font-size: 34px;
+  margin: 1rem;
+}
+.btnacolor {
+  border-radius: 15px;
+  opacity: 1;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 3rem 5rem 3rem 5rem;
+  color: #f5faff;
+  font-size: 34px;
+  margin: 1rem;
+}
+.btnmoney {
+  font-size: 18px;
+  color: #ffffff;
+  background: #2ec4b6;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  border: none;
+  border-radius: 15px;
+  padding: 1rem 5rem 1rem 5rem;
+}
+.mainBorder {
+  border-radius: 15px;
+  height: 901px;
+}
+.mainheight {
+  height: 50rem;
+}
+.mainMap {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.mainPara {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+.innerMap {
+  background: #ffffff;
+  width: 305px;
+  height: 500px;
+  padding: 1rem;
+}
+.mainButton {
+  background: #ff9f1c;
+  width: 275px;
+  height: 151px;
+  color: #ffffff;
+  border-radius: 15px;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: none;
+}
+.innertext {
+  padding-bottom: 3rem;
+}

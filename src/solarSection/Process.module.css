@@ -1,0 +1,168 @@
+.mainInstall {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 4rem;
+}
+.mainSpan {
+  color: #2ec4b6;
+  font-weight: bold;
+}
+.mainFlex {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+.mainImg {
+  width: 120px;
+  height: 120px;
+}
+.mainline {
+  width: 80px;
+}
+.maingroup {
+  width: 180px;
+  height: 180px;
+}
+.mainPara {
+  max-width: 170px;
+  margin: auto;
+}
+.mainHead {
+  width: 222px;
+  height: 185px;
+  border: 0.699999988079071px solid #21212172;
+  border-radius: 15px;
+  position: relative;
+  left: 10px;
+  bottom: 30px;
+}
+.innerHead {
+  width: 222px;
+  height: 185px;
+  border: 0.699999988079071px solid #21212172;
+  border-radius: 15px;
+  position: relative;
+  left: 200px;
+  top: 20px;
+}
+.outHead {
+  width: 222px;
+  height: 185px;
+  border: 0.699999988079071px solid #21212172;
+  border-radius: 15px;
+  position: relative;
+  left: 350px;
+  top: 20px;
+}
+.cirlcleHead {
+  width: 222px;
+  height: 209px;
+  border: 0.699999988079071px solid #21212172;
+  border-radius: 15px;
+  position: relative;
+  left: 376px;
+  bottom: 25px;
+  padding: 10px;
+}
+.tracksHead {
+  width: 222px;
+  height: 209px;
+  border: 0.699999988079071px solid #21212172;
+  border-radius: 15px;
+  position: relative;
+  left: 182px;
+  bottom: 20px;
+}
+.trackspara {
+  max-width: 174px;
+  margin: auto;
+}
+.Headinner {
+  width: 222px;
+  height: 185px;
+  border: 0.699999988079071px solid #21212172;
+  border-radius: 15px;
+  position: relative;
+  left: 399px;
+  bottom: -10px;
+}
+.innerPara {
+  max-width: 180px;
+  margin: auto;
+}
+.cirlclepara {
+  max-width: 204px;
+  margin: auto;
+}
+.parainner {
+  max-width: 214px;
+  margin: auto;
+}
+.outPara {
+  max-width: 182px;
+  margin: auto;
+}
+.mainGrid {
+  display: flex;
+  gap: 30px;
+}
+.innerGrid {
+  display: flex;
+}
+@media (max-width: 1024px) {
+  .mainImg {
+    width: 87px;
+    height: 82px;
+  }
+  .maingroup {
+    width: 130px;
+    height: 138px;
+  }
+  .mainHead {
+    width: 177px;
+    height: 185px;
+
+    left: -29px;
+    bottom: 19px;
+  }
+  .tracksHead {
+    width: 155px;
+    height: 141px;
+
+    left: 111px;
+    bottom: 20px;
+  }
+  .cirlcleHead {
+    width: 203px;
+    height: 197px;
+
+    left: 249px;
+    bottom: 25px;
+    padding: 4px;
+  }
+  .Headinner {
+    width: 184px;
+    height: 153px;
+
+    left: 260px;
+    bottom: -10px;
+  }
+  .innerHead {
+    width: 197px;
+    height: 185px;
+
+    left: 124px;
+    top: 25px;
+  }
+  .outHead {
+    width: 201px;
+    height: 162px;
+    border: 0.699999988079071px solid #21212172;
+    border-radius: 15px;
+    position: relative;
+    left: 211px;
+    top: 51px;
+  }
+}

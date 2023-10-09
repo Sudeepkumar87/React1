@@ -1,0 +1,141 @@
+.mainNum {
+  display: flex;
+  justify-content: center;
+  gap: 1.7rem;
+  padding-top: 7rem;
+}
+.NumbColor {
+  color: #2ec4b6;
+}
+.imgmain {
+  text-align: center;
+  padding-bottom: 3rem;
+}
+.mainimg {
+  width: 80px;
+  height: 80px;
+}
+.mainPara {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}
+.mainGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+.interBack {
+  width: 349px;
+  height: 177px;
+  background: #f2f9ff;
+  border-radius: 10px;
+  margin: auto;
+  padding: 10px;
+}
+.mainPen {
+  display: flex;
+  justify-content: space-between;
+}
+.imgPen {
+  width: 17px;
+  height: 17px;
+}
+.mainPlan {
+  display: flex;
+  gap: 1rem;
+}
+.clipImg {
+  width: 125px;
+  height: 40px;
+}
+.mainClip {
+  text-align: left;
+}
+.mainElec {
+  width: 50px;
+  height: 50px;
+}
+
+.innerP {
+  padding: 0;
+  margin: 0;
+}
+.innerButt {
+  display: block;
+  justify-content: end;
+  text-align: end;
+  align-items: end;
+}
+.mainButton {
+  font-size: 18px;
+  color: #212121;
+  width: 284px;
+  height: 59px;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  border: none;
+}
+.whaiteMain {
+  width: 17px;
+  height: 17px;
+}
+.intertMain {
+  background: #f4178f;
+  width: 349px;
+  height: 126px;
+  border-radius: 0px 0px 10px 10px;
+  margin: auto;
+}
+.mainColor {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.innerWhite {
+  color: #ffffff;
+}
+.innerOut {
+  display: flex;
+  margin-left: 10px;
+  gap: 10px;
+}
+.outerMain {
+  font-size: 38px;
+  color: #ffffff;
+  font-weight: bold;
+}
+.mainPar {
+  font-size: 34px;
+  color: #ff9f1c;
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.mainPas {
+  font-size: 24px;
+  text-align: center;
+  max-width: 810px;
+  margin: auto;
+  font-weight: bold;
+  padding-bottom: 2rem;
+}
+.extermain {
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  width: 284px;
+  height: 59px;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.outerBut {
+  justify-content: center;
+  display: flex;
+  text-align: center;
+  margin: auto;
+}

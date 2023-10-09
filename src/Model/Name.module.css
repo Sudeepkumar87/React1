@@ -1,0 +1,20 @@
+.maintick {
+  width: 118px;
+  height: 84px;
+  padding-bottom: 1rem;
+}
+.mainPara {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.mainModel {
+  margin: 8rem;
+  padding: 15rem;
+}
+/* .customModal {
+  background-color: white;
+  border: none;
+  padding: 13rem;
+  margin: 7rem;
+} */

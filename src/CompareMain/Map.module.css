@@ -1,0 +1,58 @@
+.mainMap {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 10px;
+}
+.imageMap {
+  width: 1064px;
+  height: 770px;
+}
+.inernalMap {
+  background: #ffffff 0% 0% no-repeat padding-box;
+}
+.outerColor {
+  background: #f2f9ff;
+  padding: 1rem;
+  width: 321px;
+  height: 154px;
+  padding-top: 2rem;
+}
+.mainText {
+  max-width: 221px;
+  margin: auto;
+  padding-bottom: 1rem;
+}
+.mapImg {
+  border: none;
+}
+.innerPara {
+  font-size: 26px;
+  font: normal normal medium 26px/37px Gotham;
+  letter-spacing: 0.52px;
+  max-width: 276px;
+  margin: auto;
+  padding-bottom: 1rem;
+  padding-top: 4rem;
+}
+.innePara {
+  font: italic normal normal 16px/25px Poppins;
+  letter-spacing: 0.32px;
+  color: #212121;
+  max-width: 312px;
+  margin: auto;
+  padding-bottom: 3rem;
+}
+.mainbtn {
+  width: 284px;
+  height: 59px;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  border: none;
+}
+.innerbtn {
+  display: flex;
+  justify-content: center;
+}
+.imgButton {
+  text-align: center;
+}

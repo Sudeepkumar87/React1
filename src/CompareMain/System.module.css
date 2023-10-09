@@ -1,0 +1,54 @@
+.mainHome {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  gap: 1rem;
+}
+.imgMain {
+  width: 660px;
+  height: 666px;
+}
+.mainHead {
+  font-size: 28px;
+  color: #ff9f1c;
+  text-align: center;
+}
+.mainFlex {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+.Flexpara {
+  font-size: 22px;
+  max-width: 464px;
+}
+.mainSpan {
+  color: #ff9f1c;
+}
+.mainButton {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+.innerButton {
+  width: 200px;
+  height: 50px;
+  background: #21212119 0% 0% no-repeat padding-box;
+  border: none;
+  border-radius: 10px;
+}
+.mainSect {
+  background: #f5faff;
+  padding: 20px;
+  padding-top: 3rem;
+  padding-bottom: 5rem;
+}
+.innerSect {
+  background: #ffffff;
+  width: 675px;
+  padding: 1rem;
+}
+@media (max-width: 1024px) {
+}

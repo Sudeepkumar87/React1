@@ -1,0 +1,371 @@
+.mainArrow {
+  display: flex;
+}
+.mainPara {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: auto;
+}
+.flexBox {
+  display: flex;
+  gap: 10px;
+  padding-bottom: 3rem;
+}
+.imgSolar {
+  width: 444px;
+  height: 240px;
+}
+.backMain {
+  width: 444px;
+  height: 140px;
+  background: #2ec4b6;
+  border-radius: 12px;
+}
+.solarMain {
+  padding-bottom: 1rem;
+}
+.mainContri {
+  font-weight: bold;
+  text-align: center;
+}
+.innerContri {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  align-items: center;
+}
+.mainKit {
+  width: 421px;
+  height: 400px;
+  background: #f4178f;
+  border-radius: 12px;
+  padding: 10px;
+}
+.mainPassa {
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center;
+}
+.mainAffort {
+  width: 480px;
+  height: 118px;
+  background: #c3dafe;
+  border-radius: 12px;
+  padding: 1rem;
+  margin: 10px;
+  padding-bottom: 10px;
+}
+.AffortMain {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 1px;
+  margin-bottom: 2px;
+}
+.Affortpara {
+  max-width: 388px;
+  margin: auto;
+}
+.innerPass {
+  color: #ffffff;
+  margin-top: 5px;
+  padding-top: 5px;
+  margin: auto;
+  text-align: start;
+  align-items: start;
+  justify-content: start;
+}
+.outerPass {
+  color: #ffffff;
+  max-width: 324px;
+}
+.mainOffer {
+  font-size: 24px;
+  text-align: center;
+  font-weight: bold;
+}
+.mapoffer {
+  display: flex;
+  justify-content: center;
+  gap: 4rem;
+}
+.imageoffer {
+  width: 70px;
+  height: 70px;
+}
+.innerOffer {
+  display: flex;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+.offerHead {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}
+.offerText {
+  font-size: 14px;
+  max-width: 170px;
+  align-items: center;
+  text-align: center;
+}
+/* CSS to enable hover effect for opening accordion */
+.accordion-item:hover .accordion-collapse {
+  display: block;
+}
+
+/* Hide the accordion body by default */
+.accordion-collapse {
+  display: none;
+}
+.accordion-flush {
+  background-color: none;
+}
+.mainFlexItem {
+  display: flex;
+  gap: 10px;
+  padding-top: 3rem;
+}
+.mainImg {
+  width: 21px;
+  height: 21px;
+}
+.innerFlex {
+  width: 60px;
+  height: 60px;
+}
+.handMain {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+.outerHand {
+  display: flex;
+  gap: 1rem;
+}
+.handPara {
+  padding: 0px;
+  margin: 0px;
+}
+.OuterPara {
+  font-weight: bold;
+  margin: 0;
+}
+.OuterPar {
+  font-size: 14px;
+  max-width: 109px;
+  margin: 0;
+}
+.mainElec {
+  font-size: 20px;
+  text-align: center;
+}
+.mainGener {
+  background: #ffffff;
+  width: 590px;
+  height: 397px;
+  border-radius: 10px;
+}
+.ElecPara {
+  font-size: 24px;
+  max-width: 470px;
+  text-align: center;
+  margin: auto;
+  color: #f4178f;
+  font-weight: bold;
+}
+.innerSpan {
+  color: #2ec4b6;
+  font-weight: bold;
+}
+.mainCarbon {
+  background: #cbf3f0;
+  width: 154px;
+  height: 110px;
+}
+.mainGreen {
+  font-size: 20px;
+  color: #2ec4b6;
+  font-weight: bold;
+  max-width: 107px;
+  margin: auto;
+  text-align: center;
+}
+.innerGreen {
+  font: normal normal normal 16px/30px Gotham;
+  color: #212121;
+  text-align: center;
+}
+.mainChart {
+  width: 119px;
+  height: 130px;
+
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+}
+.Chartco2 {
+  width: 68px;
+  height: 45px;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+}
+.Chartsave {
+  font: normal normal normal 16px/23px Gotham;
+  letter-spacing: 0.32px;
+  color: #212121;
+  text-align: center;
+}
+.mainDivChart {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.mainkg {
+  font: normal normal normal 16px/23px Gotham;
+  letter-spacing: 0.32px;
+  color: #212121;
+  text-align: center;
+}
+.mainHandMap {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+}
+.colorHead tr th {
+  background: #2ec4b6 !important;
+  /* border-radius: 0px 12px 0px 0px; */
+  padding: 0px;
+}
+.mainProd {
+  display: grid;
+  grid-template-columns: 1fr 2fr 2fr 2fr;
+  text-align: center;
+  align-items: center;
+}
+.innerProd {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  align-items: center;
+  width: 272px;
+  height: 62px;
+  background: #ebecf0;
+  border-radius: 8px;
+  margin-right: 5px;
+}
+.outerProd {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  gap: 1rem;
+}
+.imagePdf {
+  width: 35px;
+  height: 42px;
+}
+.imagedown {
+  width: 41px;
+  height: 41px;
+}
+.mainProduct {
+  font-size: 14px;
+  font-weight: bold;
+  align-items: center;
+  text-align: center;
+}
+.callMain {
+  width: 182px;
+  height: 59px;
+  background: #ffd498 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  border: none;
+}
+.calMain {
+  width: 438px;
+  height: 59px;
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  border: none;
+}
+.btnMain {
+  display: flex;
+  gap: 10px;
+}
+.mainAccordion {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background: #ebecf0;
+  width: 1440px;
+  height: 86px;
+}
+.mainAccorbtn {
+  width: 30%;
+  height: 44px;
+  background: #212121;
+  color: #fff;
+}
+.mainPrice {
+  display: flex;
+  gap: 10px;
+}
+.accordItem {
+  background: #ebecf0;
+}
+.innerMap {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.PanelImg {
+  width: 12px;
+  height: 12px;
+}
+.PanelText {
+  max-width: 18px;
+}
+.speedMain {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin-top: 16rem;
+}
+.mainCost {
+  background: #ffd0e9;
+}
+.mainVat {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.innerPara {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+.dollarPara {
+  font-size: 24px;
+  font-weight: bold;
+}
+.ormain {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 3rem;
+}
+.Instamain {
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.mainexcla {
+  text-align: center;
+  margin: auto;
+  padding-bottom: 3rem;
+}

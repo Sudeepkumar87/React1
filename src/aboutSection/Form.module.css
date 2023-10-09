@@ -1,0 +1,102 @@
+.input-wrapper {
+  position: relative;
+}
+
+input {
+  border: 1px solid gray;
+  border-radius: 6px;
+  position: relative;
+  width: 200px;
+  margin: 10px;
+  line-height: 6ex;
+}
+
+label {
+  position: absolute;
+  top: 0.2ex;
+  z-index: 1;
+  left: 2em;
+  background-color: white;
+  padding: 0 5px;
+}
+.mainform {
+  display: flex;
+  justify-content: space-evenly;
+  background: #ffffff;
+  border-radius: 15px;
+  padding: 10px;
+  width: 1280px;
+  height: 599px;
+}
+.innermain {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-top: 2rem;
+}
+.custom-textfield label {
+  font-size: 14px;
+  color: #212121 !important;
+  outline: none;
+}
+
+.outerImg {
+  display: flex;
+  text-align: center;
+  align-items: start;
+  gap: 20px;
+  margin: 1rem;
+}
+.imagemap {
+  width: 48px;
+  height: 48px;
+}
+.Textmap {
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.innerImg {
+  background: #2ec4b6;
+  padding: 10px;
+  border-radius: 20px;
+}
+.mainImage {
+  width: 340px;
+  height: 349px;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+.formButton {
+  text-align: right;
+  padding-top: 3rem;
+}
+.mainButton {
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  width: 227px;
+  height: 50px;
+  border: none;
+}
+.input-text {
+  text-align: left;
+}
+.mainForm {
+  background: #f5faff;
+  padding: 30px;
+  padding-top: 7rem;
+}
+.mainSpan {
+  color: #2ec4b6;
+}
+.mainFoFolder {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 2rem;
+}

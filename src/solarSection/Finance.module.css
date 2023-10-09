@@ -1,0 +1,337 @@
+.mainHeader {
+  font-size: 40px;
+  color: #212121;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 3rem;
+}
+.spanHeader {
+  color: #2ec4b6;
+  padding: 20px;
+}
+.mainContainer {
+  color: #ff9f1c;
+  text-align: center;
+}
+.middleHeader {
+  font-size: 45px;
+  color: #212121;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 1rem;
+}
+.mainPara {
+  text-align: center;
+  max-width: 890px;
+  margin: auto;
+  padding-bottom: 2rem;
+}
+.outerHead {
+  font-size: 24px;
+  color: #212121;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 1rem;
+}
+.outerPara {
+  max-width: 824px;
+  margin: auto;
+  padding-bottom: 2rem;
+  text-align: center;
+}
+.outerButton {
+  background: #ff9f1c 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  opacity: 1;
+  border: none;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  padding: 10px 3rem 10px 3rem;
+  font-size: 18px;
+}
+.buttonPara {
+  font-size: 18px;
+}
+.numberMain {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+}
+.innerDiv {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+}
+.NameText {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  justify-content: center;
+  text-align: center;
+}
+.mainNumber {
+  background: #212121;
+  margin: 1rem;
+  padding: 50px;
+}
+.mainImg {
+  width: 180px;
+  height: 180px;
+  margin: auto;
+  text-align: center;
+  align-items: center;
+}
+.mainTaxt {
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  font-weight: bold;
+  padding-bottom: 2rem;
+}
+.paraText {
+  font-size: 34px;
+  color: #ffffff;
+  max-width: 300px;
+  margin: auto;
+
+  font-weight: bold;
+  /* padding-top: 1rem;
+  padding-bottom: 2rem; */
+}
+.mainText {
+  color: #ffffff;
+  max-width: 274px;
+  margin: auto;
+  margin-top: 2rem;
+  /* display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  text-align: center; */
+}
+.mainFCA {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  background: #ffffff;
+  padding: 2rem;
+}
+.FCAimag {
+  width: 790px;
+  height: 500px;
+}
+.FCApara {
+  max-width: 470px;
+}
+.FCAtext {
+  font-size: 45px;
+  color: #212121;
+  font-weight: bold;
+}
+.FCAtext1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 45px;
+  color: #212121;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+.innerHome {
+  text-align: center;
+}
+.innerbutton {
+  text-align: center;
+  margin: auto;
+  align-items: center;
+  width: 501px;
+  height: 140px;
+  background: var(--unnamed-color-2ec4b6) 0% 0% no-repeat padding-box;
+  background: #2ec4b6 0% 0% no-repeat padding-box;
+  border-radius: 15px;
+  border: none;
+  margin: 0px;
+  padding: 0px;
+}
+.innerClock {
+  margin: auto;
+  text-align: center;
+  background: #ffffff;
+  border: 0.30000001192092896px solid #707070;
+  border-radius: 20px;
+  width: 541px;
+  height: 714px;
+}
+.innerP {
+  font-size: 43px;
+  color: #ffffff;
+}
+.FCAbutton {
+  background: var(--unnamed-color-2ec4b6) 0% 0% no-repeat padding-box;
+  background: #2ec4b6 0% 0% no-repeat padding-box;
+  border-radius: 55px;
+  border: none;
+  font-size: 18px;
+  color: #ffffff;
+  padding: 10px 2rem 10px 2rem;
+}
+.mainAffort {
+  display: flex;
+}
+.innerAfford {
+  background: #212121;
+  padding: 50px;
+  text-align: center;
+}
+.outerDolar {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  flex-direction: column;
+}
+.outerafford {
+  font-size: 34px;
+  color: #ffffff;
+  padding-top: 1rem;
+}
+.innerafford {
+  max-width: 290px;
+  color: #ffffff;
+}
+.solarImg {
+  width: 431px;
+  height: 407px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 10rem;
+  padding-top: 10px;
+}
+@media (max-width: 1024px) {
+  .mainAffort {
+    gap: 10px;
+  }
+  .mainNumber {
+    margin: 0rem;
+    padding: 9px;
+  }
+  .FCAimag {
+    width: 556px;
+    height: 500px;
+  }
+}
+@media (max-width: 768px) {
+  .mainAffort {
+    display: block;
+  }
+  .innerafford {
+    margin: auto;
+    margin-bottom: 1rem;
+  }
+  .FCAimag {
+    width: 350px;
+    height: 441px;
+  }
+  .FCAtext {
+    font-size: 39px;
+  }
+  .NameText {
+    grid-template-columns: 2fr 2fr;
+    gap: 20px;
+  }
+}
+@media (max-width: 425px) {
+  .innerAfford {
+    padding: 15px;
+  }
+  .mainFCA {
+    display: block;
+  }
+  .FCAimag {
+    margin-top: 2rem;
+    width: 305px;
+    height: 319px;
+  }
+
+  .NameText {
+    display: block;
+  }
+  .mainText {
+    padding-bottom: 2rem;
+  }
+  .innerClock {
+    width: 372px;
+    height: 596px;
+  }
+  .solarImg {
+    width: 336px;
+    height: 294px;
+  }
+  .innerbutton {
+    width: 367px;
+
+    height: 140px;
+  }
+}
+@media (max-width: 375px) {
+  .FCAimag {
+    width: 237px;
+    height: 265px;
+  }
+  .FCAtext {
+    font-size: 35px;
+  }
+
+  .innerbutton {
+    width: 318px;
+
+    height: 140px;
+  }
+  .innerClock {
+    width: 324px;
+    height: 540px;
+  }
+  .solarImg {
+    width: 288px;
+    height: 237px;
+  }
+}
+@media (max-width: 320px) {
+  .FCAimag {
+    width: 205px;
+    height: 218px;
+  }
+  .FCAtext {
+    font-size: 27px;
+  }
+
+  .innerbutton {
+    width: 253px;
+
+    height: 140px;
+  }
+  .innerClock {
+    width: 256px;
+    height: 410px;
+  }
+  .solarImg {
+    width: 203px;
+    height: 237px;
+    margin-bottom: 2rem;
+  }
+  .middleHeader {
+    font-size: 33px;
+  }
+}
