@@ -43,7 +43,7 @@ import Name from "./Model/Name";
 function App() {
   return (
     <Router>
-      {/* <Navbar /> */}
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         children:[
