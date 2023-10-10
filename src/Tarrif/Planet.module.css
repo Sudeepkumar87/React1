@@ -13,3 +13,143 @@
 .mainSpan {
   color: #2ec4b6;
 }
+.mainGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-top: 2rem;
+  gap: 10px;
+}
+.mainLight {
+  width: 472px;
+  height: 260px;
+}
+.mainHelp {
+  font-size: 28px;
+  color: #2ec4b6;
+  text-align: center;
+}
+.innerHelp {
+  font-size: 14px;
+  max-width: 369px;
+  margin: auto;
+  color: #ffffff;
+}
+.helpHead {
+  background: #212121;
+  border-radius: 15px;
+  opacity: 1;
+  width: 472px;
+  height: 453px;
+}
+.TarrifMain {
+  width: 500px;
+  height: 460px;
+  border-radius: 15px;
+  background: #ebecf0;
+}
+.mainTarrif {
+  display: flex;
+  gap: 25px;
+}
+.tarrifImg {
+  width: 44px;
+  height: 50px;
+}
+.TarrifHead {
+  font-size: 18px;
+  font-weight: bold;
+}
+.TarrifText {
+  font-weight: 315px;
+}
+.mainthings {
+  width: 348px;
+  height: 453px;
+  background: #ebecf0 0% 0% no-repeat padding-box;
+  border-radius: 15px;
+}
+.mainabout {
+  font-size: 28px;
+  color: #2ec4b6;
+  max-width: 301px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+.numberMain {
+  display: flex;
+  gap: 10px;
+}
+.numberItem {
+  font-size: 18px;
+  font-weight: bold;
+}
+.TextNumber {
+  max-width: 236px;
+}
+.bestHead {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  justify-content: center;
+  margin: auto;
+  align-items: center;
+  margin-top: 2rem;
+}
+.outerTick {
+  background: #f4178f;
+  width: 636px;
+  height: 188px;
+  border-radius: 20px;
+  padding: 10px;
+}
+.innerTick {
+  background: #c3dafe;
+  width: 636px;
+  height: 188px;
+  border-radius: 20px;
+  padding: 10px;
+}
+.imgadd {
+  width: 25px;
+  height: 25px;
+}
+.imgadd1 {
+  width: 60px;
+  height: 59px;
+}
+.nextOuter {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+}
+.innerWeek {
+  font-size: 22px;
+  max-width: 480px;
+  margin: auto;
+  color: #434190;
+  text-align: center;
+  padding-top: 10px;
+}
+.tickImg {
+  width: 36px;
+  height: 35px;
+}
+.imgFlat {
+  width: 61px;
+  height: 61px;
+}
+.outerFlat {
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+}
+.mainWeek {
+  font-size: 22px;
+  max-width: 498px;
+  color: #ffffff;
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+  padding-top: 10px;
+}
